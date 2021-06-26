@@ -1,0 +1,1 @@
+This is a simple program to push detected lightning strikes to a MQTT Server of Your choice.
