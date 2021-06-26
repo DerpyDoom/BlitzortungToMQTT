@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DerpyDoom\\Source\\Repos\\BlitzortungToMQTT\\BlitzortungToMQTT\\BlitzortungToMQTT.csproj",
+      "projectUniqueName": "C:\\Users\\DerpyDoom\\source\\repos\\BlitzortungToMQTT\\BlitzortungToMQTT.csproj",
       "projectName": "BlitzortungToMQTT",
-      "projectPath": "C:\\Users\\DerpyDoom\\Source\\Repos\\BlitzortungToMQTT\\BlitzortungToMQTT\\BlitzortungToMQTT.csproj",
+      "projectPath": "C:\\Users\\DerpyDoom\\source\\repos\\BlitzortungToMQTT\\BlitzortungToMQTT.csproj",
       "packagesPath": "C:\\Users\\DerpyDoom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DerpyDoom\\Source\\Repos\\BlitzortungToMQTT\\BlitzortungToMQTT\\obj\\",
+      "outputPath": "C:\\Users\\DerpyDoom\\source\\repos\\BlitzortungToMQTT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DerpyDoom\\AppData\\Roaming\\NuGet\\NuGet.Config",

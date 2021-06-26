@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jrNHv5fI6qy6y1FiAVB3uwyeNIU+mWpDJtiQax94s2G+jO502yN+Be7mCvuOvWgSjMBVTcS3M9A4OjAICzB3Ow==",
+  "dgSpecHash": "3kND1ZtoIxZU/A5C1wn6sX1Kmh9x0iyI0ZxkXKT5ZtoFzLH7nUEZlmuFSHnWqtdPC4pHQ2LhLUdEYpYiY0DiBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DerpyDoom\\Source\\Repos\\BlitzortungToMQTT\\BlitzortungToMQTT\\BlitzortungToMQTT.csproj",
+  "projectFilePath": "C:\\Users\\DerpyDoom\\source\\repos\\BlitzortungToMQTT\\BlitzortungToMQTT.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
